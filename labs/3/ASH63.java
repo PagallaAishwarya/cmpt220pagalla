@@ -34,6 +34,7 @@ public class ASH63 {
         } else {
             System.out.println("It is not a palindrome.");
         }
+	}
 
     
-}
+} // JA: You are missing a closing }.

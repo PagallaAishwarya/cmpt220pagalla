@@ -18,4 +18,5 @@ public class ASH55 {
     System.out.println("197         433.4    |      510            231.82 ");
     System.out.println("199         437.8    |      515            234.09 ");     
     
-}
+} // JA: You are missing a closing }. It does not compile.
+  // JA: The odea was to generate the whole table, doing the calculations.
