@@ -11,6 +11,8 @@ import java.util.Scanner;
  *
  * @author aishw
  */
+ // JA: You forgot to include the upper case characters. Also, not all the other characters are consonants. 
+ // JA: They can be numbers or other charactewrs.
 public class ASH413 {
     public static void main (String args[]){
         Scanner input = new Scanner(System.in);
